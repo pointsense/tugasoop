@@ -1,1 +1,14 @@
-tes
+Deskripsi :
+
+ada 2 metode yang saya buat :
+
+pertama menggunakan PHP OOP
+file utama yang di butuhkan
+1. swap-oop.php dan myclass.php sebagai include class
+
+2. swap2.php dan func.php sebagai include function
+
+dekorasi styling membutuhkan file : style.css dan bootrsap.min.css
+sedangkan arrow.jpg sebagai image panah
+
+terima kasih
