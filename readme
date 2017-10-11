@@ -6,6 +6,7 @@ pertama menggunakan PHP OOP
 file utama yang di butuhkan
 1. swap-oop.php dan myclass.php sebagai include class
 
+ke 2 PHP prodecure :
 2. swap2.php dan func.php sebagai include function
 
 dekorasi styling membutuhkan file : style.css dan bootrsap.min.css
